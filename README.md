@@ -1,3 +1,3 @@
-# Pet adoption list
+# Pet adoption list.
 
-this is my first ever project that i made using Vanilla javascript, html and css. 
+This is my first ever project that I made using Vanilla javascript, HTML, and CSS. 
